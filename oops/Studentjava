@@ -1,0 +1,61 @@
+class Student
+{
+    //
+    
+    // this the employee class things 
+    /*String name;
+    int id; 
+    Double salary;
+    String department;
+    Double salaryIncrement;
+    String companyName;
+    Employee(String name, int id, Double salary, String department, Double salaryIncrement, String companyName)
+    {
+        this.name = name;
+        this.id = id;
+        this.salary = salary;
+        this.department = department;
+        this.salaryIncrement = salaryIncrement;
+        this.companyName = companyName;
+    }
+    // Method to calculate the new salary after increment
+    void calculateNewSalary()
+    {
+        salary+=salaryIncrement;
+        System.out.print("Incremented  Salary : "+ salary);
+    }
+    // Method to display employee details
+    void display()
+    {
+        System.out.println("Name: " + name);
+        System.out.println("ID: " + id);
+        System.out.println("Salary: " + salary);
+        System.out.println("Department: " + department);
+        System.out.println("Company Name: " + companyName);
+    }
+    */
+    // Student class implementation goes here
+    /*double cgpa;
+    String name;
+    String id;
+    String department;
+    String university;
+    Student(String name, String id, String department, String university, double cgpa)
+        {
+        this.name = name;
+        this.id = id;
+        this.department = department;
+        this.university = university;
+        this.cgpa = cgpa;
+    }
+    void display()
+    {
+        System.out.println("Name: " + name);
+        System.out.println("ID: " + id);
+        System.out.println("Department: " + department);
+        System.out.println("University: " + university);
+        System.out.println("CGPA: " + cgpa);
+    }*/
+
+    
+}
