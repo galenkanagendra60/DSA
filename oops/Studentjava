@@ -34,8 +34,8 @@ class Student
         System.out.println("Company Name: " + companyName);
     }
     */
-    // Student class implementation goes here
-    /*double cgpa;
+    //Student class implementation goes here
+    double cgpa;
     String name;
     String id;
     String department;
@@ -55,7 +55,7 @@ class Student
         System.out.println("Department: " + department);
         System.out.println("University: " + university);
         System.out.println("CGPA: " + cgpa);
-    }*/
+    }
 
     
 }

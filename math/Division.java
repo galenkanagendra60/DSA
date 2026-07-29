@@ -28,4 +28,4 @@ class Division
        System.out.println(n + " is a prime number");
 
     }
-}a
+}

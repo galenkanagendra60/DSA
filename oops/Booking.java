@@ -1,5 +1,3 @@
-import math.Movie;
-
 package oops;
 class Booking
 {

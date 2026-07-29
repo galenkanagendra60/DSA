@@ -1,3 +1,4 @@
+package searching;
 class BinarySearch
 {
     

@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import math.Movie;
 import oops.Booking;
 class Moviedetails
 {
