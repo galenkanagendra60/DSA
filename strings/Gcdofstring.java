@@ -1,6 +1,6 @@
 class Gcdofstring
 {
-    
+
     public String gcdOfStrings(String str1, String str2) {
         // Check if concatenated strings match in both orders
         if (!(str1 + str2).equals(str2 + str1)) {
