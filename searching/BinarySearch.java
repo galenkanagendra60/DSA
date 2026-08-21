@@ -1,5 +1,0 @@
-package searching;
-class BinarySearch
-{
-    
-}
