@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class NoramlBinarySearch {
+class NormalBinarySearch {
 
     public static int BinarySearch(int[] arr, int target) {
 
