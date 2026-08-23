@@ -17,7 +17,7 @@ class BinarySearch {
         return -1;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {                                    
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the elements :");
         int n = sc.nextInt();
