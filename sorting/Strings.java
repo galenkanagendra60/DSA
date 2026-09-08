@@ -1,0 +1,6 @@
+/**
+ * Strings
+ */
+public class Strings {
+
+}
