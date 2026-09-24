@@ -29,7 +29,7 @@ class longestsubString {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the string :");
+        System.out.println("Enter the string");
         String s = sc.nextLine();
 
         int result = lengthOfLongestSubstring(s);
